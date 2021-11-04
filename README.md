@@ -10,6 +10,9 @@ Using a separate Raspberry Pi running [this Python script](https://github.com/sp
 
 This tile can be used on [the Laravel Dashboard](https://docs.spatie.be/laravel-dashboard).
 
+![image](https://user-images.githubusercontent.com/6287961/140376262-2c257983-d38a-4fc0-ac61-518643111d77.png)
+
+
 ## Support us
 
 [<img src="https://github-ads.s3.eu-central-1.amazonaws.com/laravel-dashboard-skeleton-tile.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/laravel-dashboard-skeleton-tile)
