@@ -1,8 +1,8 @@
-# A short description of the tile
+# Coffee brewing statistics for the Spatie office
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/:vendor/:package_name.svg?style=flat-square)](https://packagist.org/packages/:vendor/:package_name)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/:vendor/:package_name/run-tests?label=tests)](https://github.com/:vendor/:package_name/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/:vendor/:package_name.svg?style=flat-square)](https://packagist.org/packages/:vendor/:package_name)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-dashboard-coffee-tile.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-dashboard-coffee-tile)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/spatie/laravel-dashboard-coffee-tile/run-tests?label=tests)](https://github.com/spatie/laravel-dashboard-coffee-tile/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-dashboard-coffee-tile.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-dashboard-coffee-tile)
 
 A friendly explanation of what your tile does.
 
@@ -21,7 +21,7 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 You can install the package via composer:
 
 ```bash
-composer require :vendor/:package_name
+composer require spatie/laravel-dashboard-coffee-tile
 ```
 
 ## Usage

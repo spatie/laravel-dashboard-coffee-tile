@@ -1,17 +1,17 @@
 {
-    "name": ":vendor/:package_name",
-    "description": ":package_description",
+    "name": "spatie/laravel-dashboard-coffee-tile",
+    "description": "Coffee statistics for the Spatie office",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        "spatie",
+        "laravel-dashboard-coffee-tile"
     ],
-    "homepage": "https://github.com/:vendor/:package_name",
+    "homepage": "https://github.com/spatie/laravel-dashboard-coffee-tile",
     "license": "MIT",
     "authors": [
         {
             "name": ":author_name",
             "email": ":author_email",
-            "homepage": "https://:vendor.be",
+            "homepage": "https://spatie.be",
             "role": "Developer"
         }
     ],
