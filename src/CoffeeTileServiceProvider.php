@@ -21,6 +21,6 @@ class CoffeeTileServiceProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__.'/../database/migrations/' => database_path('migrations')
-        ], 'spatie-laravel-coffee-tile-migrations');
+        ], 'coffee-tile-migrations');
     }
 }
