@@ -24,7 +24,7 @@ class CoffeeTileComponent extends Component
     {
         $days = $this->getCoffeesPerDay();
 
-        return view('coffee-tile::tile', [
+        return view('dashboard-coffee-tile::tile', [
             'today' => Coffee::query()->whereDate('created_at', today())->count(),
             'thisWeek' => Coffee::query()
                 ->whereBetween('created_at', [now()->startOfWeek(), now()->endOfWeek()])
