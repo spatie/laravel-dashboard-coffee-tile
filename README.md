@@ -30,6 +30,13 @@ Add route in api.php
 Route::post('/coffee', \Spatie\CoffeeTile\Http\CoffeeController::class);
 ```
 
+Publish and run the migrations:
+
+```bash
+php artisan vendor:publish --provider="Spatie\CoffeeTile\CoffeeTileServiceProvider" --tag="coffee-tile-migrations"
+php artisan migrate
+```
+
 ## Usage
 
 In your dashboard view you use the `livewire:my-tile` component.
