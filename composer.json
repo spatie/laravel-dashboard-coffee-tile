@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Alex Vanderbist",
+            "email": "alex@spatie.be",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
