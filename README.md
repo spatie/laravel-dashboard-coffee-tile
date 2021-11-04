@@ -24,6 +24,12 @@ You can install the package via composer:
 composer require spatie/laravel-dashboard-coffee-tile
 ```
 
+Add route in api.php
+
+```php
+Route::post('/coffee', \Spatie\CoffeeTile\Http\CoffeeController::class);
+```
+
 ## Usage
 
 In your dashboard view you use the `livewire:my-tile` component.

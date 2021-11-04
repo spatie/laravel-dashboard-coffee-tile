@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\MyTile\Tests;
+namespace Spatie\CoffeeTile\Tests;
 
 use PHPUnit\Framework\TestCase;
 
