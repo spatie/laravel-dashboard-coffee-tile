@@ -4,7 +4,6 @@ namespace Spatie\CoffeeTile;
 
 use Illuminate\Support\ServiceProvider;
 use Livewire\Livewire;
-use Spatie\CoffeeTile\Http\CoffeeController;
 
 class CoffeeTileServiceProvider extends ServiceProvider
 {
