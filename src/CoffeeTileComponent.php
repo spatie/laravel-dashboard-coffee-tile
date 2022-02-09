@@ -46,7 +46,7 @@ class CoffeeTileComponent extends Component
             ->pluck('count', 'date');
 
         return collect(range(13, 0))
-            ->map(fn(int $day) => now()->subDays($day)->format('Y-m-d'))
-            ->map(fn(string $date) => $dayCounts[$date] ?? 0);
+            ->map(fn (int $day) => now()->subDays($day)->format('Y-m-d'))
+            ->map(fn (string $date) => $dayCounts[$date] ?? 0);
     }
 }
