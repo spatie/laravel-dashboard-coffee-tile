@@ -1,10 +1,6 @@
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
-
 # Coffee brewing statistics for the Spatie office
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-dashboard-coffee-tile.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-dashboard-coffee-tile)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/spatie/laravel-dashboard-coffee-tile/run-tests?label=tests)](https://github.com/spatie/laravel-dashboard-coffee-tile/actions?query=workflow%3Arun-tests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-dashboard-coffee-tile.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-dashboard-coffee-tile)
 
 Over at Spatie we drink a lot of coffee. How much coffee? We had no idea until we created this dashboard tile.
